@@ -2996,6 +2996,18 @@
     (property "Datasheet" "" (at 128.27 33.02 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "EEEFK1E100AR"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C401709"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "10uF 25V 58.5mA@120Hz ±20% SMD,D4xL5.8mm  Aluminum Electrolytic Capacitors - SMD ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/Panasonic-EEEFK1E100AR/C401709"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid 29f17782-130a-4367-b923-4493e9fe2eac))
     (pin "2" (uuid b421194d-c925-4c6e-a145-28b53aca7661))
     (instances
@@ -4343,6 +4355,18 @@
     (property "Datasheet" "" (at 236.22 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "EEEFK1E100AR"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C401709"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "10uF 25V 58.5mA@120Hz ±20% SMD,D4xL5.8mm  Aluminum Electrolytic Capacitors - SMD ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/Panasonic-EEEFK1E100AR/C401709"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid ab3380b5-f278-4edd-984f-ddae2a830fcd))
     (pin "2" (uuid 886dfb22-8b6d-4767-aba9-14198d38a8ea))
     (instances
@@ -4368,6 +4392,18 @@
     )
     (property "Datasheet" "" (at 264.16 80.01 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "EEEFK1E100AR"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C401709"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "10uF 25V 58.5mA@120Hz ±20% SMD,D4xL5.8mm  Aluminum Electrolytic Capacitors - SMD ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/Panasonic-EEEFK1E100AR/C401709"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid b8a9bd85-9a42-49e6-896f-a51a2d5b6ea5))
     (pin "2" (uuid 1372b22d-54ca-446c-91dd-759a87de24a6))
