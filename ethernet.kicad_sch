@@ -3904,6 +3904,18 @@
     (property "Datasheet" "" (at 105.41 184.15 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "OPA690IDBVR"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C524799"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "3uA 1 500MHz 300MHz SOT-23-6  Operational Amplifier ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/TexasInstruments-OPA690IDBVR/C524799"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "4" (uuid 055e1abb-3d40-4f03-ad9d-f64ba64c3d99))
     (pin "7" (uuid 50257cbe-0a19-484b-bd93-acaa1d61dd06))
     (pin "2" (uuid f470a235-6f27-4023-97a9-33ca161012da))
@@ -4356,6 +4368,18 @@
     )
     (property "Datasheet" "" (at 189.23 76.2 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "DC005"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C431533"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "Shrouded DC Power Receptacle -40℃~+55℃ 2mm 6.3mm 500mA 30V Plugin  AC/DC Power Connectors ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/ShouHan-DC005/C431533"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 00c9666e-a1b8-4e6f-9326-9be788220b58))
     (pin "2" (uuid 96e59609-7715-4c53-a021-25f09f816fe1))
