@@ -2574,23 +2574,23 @@
     (uuid ca030c0e-b022-4416-98c0-2300097c2bd3)
   )
 
-  (label "Q" (at 259.08 198.12 0)
+  (label "Q" (at 259.08 198.12 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 047f71dc-ada4-4dfe-aec0-83836f79c707)
   )
-  (label "~{Q}" (at 259.08 210.82 0)
+  (label "~{Q}" (at 259.08 210.82 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 16c78120-1213-4cda-a3a8-69c2f7b0ad8b)
   )
-  (label "~{DOUT}" (at 113.03 189.23 0)
+  (label "~{DOUT}" (at 113.03 189.23 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 71a5947c-585e-4f73-bf42-94f28f29e649)
   )
-  (label "TX-" (at 111.76 100.33 0)
+  (label "TX-" (at 111.76 100.33 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid bffa1b4c-3bcb-4964-a545-b70237b02850)
   )
-  (label "TX+" (at 132.08 100.33 0)
+  (label "TX+" (at 132.08 100.33 0) (fields_autoplaced)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid ec7cdaca-89a0-492b-95c3-33d9b225a53f)
   )
@@ -2638,6 +2638,18 @@
     )
     (property "Datasheet" "" (at 95.25 86.36 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603WAF100JT5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C22859"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±1% ±400ppm/℃ 10Ω 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/23586-0603WAF100JT5E/C22859"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid a7251d99-5fd2-40c5-80cf-ed64c23af933))
     (pin "2" (uuid 6556d858-5f04-44c3-b66a-5f277d926aaa))
@@ -2742,6 +2754,18 @@
     )
     (property "Datasheet" "" (at 132.08 95.25 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603WAF4990T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C23065"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/23792-0603WAF4990T5E/C23065"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 7ee9a01c-0946-4fd5-a376-5168ce969d2b))
     (pin "2" (uuid 451781b0-53af-463b-967a-9516a6634b2e))
@@ -3049,6 +3073,18 @@
     (property "Datasheet" "" (at 99.06 71.12 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603WAF1002T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C25804"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 10kΩ 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid fcfea7e8-d980-40ab-bb0a-93339e7c01de))
     (pin "2" (uuid 3051e6a8-8831-4306-8a45-d4a90a2ee0ad))
     (instances
@@ -3074,6 +3110,18 @@
     )
     (property "Datasheet" "" (at 152.4 71.12 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603WAF100JT5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C22859"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±1% ±400ppm/℃ 10Ω 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/23586-0603WAF100JT5E/C22859"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 0e7a9330-c29b-491d-9254-4296dfa2abf0))
     (pin "2" (uuid 771a2b12-a1d7-4a47-9050-8d3c22f0dd60))
@@ -3127,6 +3175,18 @@
     (property "Datasheet" "" (at 92.71 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603WAF2002T5E" (at 92.71 36.83 90)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C4184" (at 92.71 36.83 90)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 20kΩ 0603  Chip Resistor - Surface Mount ROHS" (at 92.71 36.83 90)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/4591-0603WAF2002T5E/C4184" (at 92.71 36.83 90)
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid 45da0bf2-3c99-4359-8e67-1fa93a1f95da))
     (pin "2" (uuid 7762becf-8b68-40a5-98d9-508992d48a21))
     (instances
@@ -3178,6 +3238,18 @@
     )
     (property "Datasheet" "" (at 158.75 194.31 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603WAF4702T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C25819"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 47kΩ 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 3de9f8d6-b25e-42fc-b2a5-dc96f50a69d5))
     (pin "2" (uuid 3454c6c6-681b-44c2-a357-d1dd43b5a0a8))
@@ -3473,6 +3545,18 @@
     (property "Datasheet" "" (at 148.59 205.74 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603WAF1201T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C22765"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 1.2kΩ 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/23492-0603WAF1201T5E/C22765"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid b31c3875-9cfe-4ac3-9fe7-0612624257d3))
     (pin "2" (uuid e2d95fb5-7377-4903-8c9e-7945818abe46))
     (instances
@@ -3498,6 +3582,18 @@
     )
     (property "Datasheet" "" (at 148.59 218.44 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603WAF4701T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C23162"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 4.7kΩ 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/23889-0603WAF4701T5E/C23162"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid a18b5619-36fa-411b-8b4a-fa191a4baa4b))
     (pin "2" (uuid 7c7ff3c3-40f4-4d6b-8277-6cedc83a349d))
@@ -3626,6 +3722,18 @@
     (property "Datasheet" "" (at 60.96 165.1 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603WAF4701T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C23162"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 4.7kΩ 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/23889-0603WAF4701T5E/C23162"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid 7138e44d-fa5f-45cb-ba45-8b6e82f2b83a))
     (pin "2" (uuid c4138b1d-60bc-4631-a066-73df30a5a463))
     (instances
@@ -3706,6 +3814,18 @@
     )
     (property "Datasheet" "" (at 104.14 212.09 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603WAF1001T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C21190"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 206d1272-2feb-45e9-9c3a-2c9c921d269c))
     (pin "2" (uuid 4d362a42-1681-4eff-9fdd-6e646d4eb65c))
@@ -3860,6 +3980,18 @@
     (property "Datasheet" "" (at 255.27 198.12 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603WAF499JT5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C23185"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 49.9Ω 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/23912-0603WAF499JT5E/C23185"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid b170b67f-1891-4fd4-8035-229bffbb993f))
     (pin "2" (uuid 3b8f4970-e162-4679-8a72-7a30279412f0))
     (instances
@@ -3967,6 +4099,18 @@
     )
     (property "Datasheet" "" (at 255.27 210.82 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603WAF499JT5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C23185"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 49.9Ω 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/23912-0603WAF499JT5E/C23185"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 7ada0582-849e-4f07-a2d5-60bbde49c0bc))
     (pin "2" (uuid cc6bd900-b203-4a60-a1dd-af2b99a871aa))
@@ -4352,6 +4496,18 @@
     (property "Datasheet" "" (at 88.9 172.72 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603WAF2201T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C4190"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 2.2kΩ 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/4597-0603WAF2201T5E/C4190"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid 6dbecf70-a574-4ad2-a011-f581422d77b8))
     (pin "2" (uuid 6d6bb9a2-c56d-407e-8388-fa354eca7ed9))
     (instances
@@ -4377,6 +4533,18 @@
     )
     (property "Datasheet" "" (at 88.9 182.88 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603WAF2201T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C4190"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 2.2kΩ 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/4597-0603WAF2201T5E/C4190"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid db915e94-c53d-47bf-bd61-c7f61f48747c))
     (pin "2" (uuid 1394e0f7-2f26-495d-a324-dcdce3947ac9))
@@ -4429,6 +4597,18 @@
     (property "Datasheet" "" (at 171.45 199.39 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603WAF2200T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C22962"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 220Ω 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/23689-0603WAF2200T5E/C22962"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid 6b91eb75-1f6c-45cd-b14d-38732c3e881d))
     (pin "2" (uuid 3909d79a-bfc5-47b3-ab1e-8566075751d6))
     (instances
@@ -4455,6 +4635,18 @@
     (property "Datasheet" "" (at 186.69 218.44 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603WAF4703T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C23178"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 470kΩ 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/23905-0603WAF4703T5E/C23178"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid f745f52e-e100-49b0-a5c8-0c34d582729f))
     (pin "2" (uuid 67342490-043a-48cb-8e5a-6d4d5d118b84))
     (instances
@@ -4480,6 +4672,18 @@
     )
     (property "Datasheet" "" (at 124.46 196.85 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603WAF499JT5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C23185"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 49.9Ω 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/23912-0603WAF499JT5E/C23185"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid e73b5979-8e74-4928-9672-df0417b4d9fb))
     (pin "2" (uuid b1064757-3c7c-45a1-a6db-3854313d2eab))
@@ -4819,6 +5023,18 @@
     (property "Datasheet" "" (at 354.33 38.1 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "CR0603-FX-1242ELF"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C203273"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 12.4kΩ 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/Bourns-CR0603_FX1242ELF/C203273"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid c22364d4-c5bc-422c-a734-709b6ec6656c))
     (pin "2" (uuid b35fd813-9644-4fc1-acf2-8ba9b1213728))
     (instances
@@ -4844,6 +5060,18 @@
     )
     (property "Datasheet" "" (at 354.33 49.53 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603WAF4990T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C23065"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/23792-0603WAF4990T5E/C23065"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 4094c0f9-c040-422d-83c8-5ea6c6525e18))
     (pin "2" (uuid 325a0948-f9b8-4264-a091-62a734bcf68d))
@@ -5025,6 +5253,18 @@
     (property "Datasheet" "" (at 289.56 73.66 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603WAF2201T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C4190"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 2.2kΩ 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/4597-0603WAF2201T5E/C4190"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid df903198-ffcb-482b-b154-b78c7cd6d134))
     (pin "2" (uuid 3920679b-216e-45d7-9913-7d2132f7baeb))
     (instances
@@ -5076,6 +5316,18 @@
     )
     (property "Datasheet" "" (at 383.54 22.86 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603WAF2202T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C31850"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 22kΩ 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/32812-0603WAF2202T5E/C31850"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 28a8bae7-e6ca-4bcd-a93e-a5b1eff7b8a5))
     (pin "2" (uuid 4ea1e7d8-5f8c-4fae-88ec-1c35f43f2937))
@@ -5228,6 +5480,18 @@
     (property "Datasheet" "" (at 276.86 217.17 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603WAF4702T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C25819"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 47kΩ 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid ef1be697-5903-4454-97a9-a65d1499ce97))
     (pin "2" (uuid 34c1cddd-10be-48ac-bf79-85f481d950c0))
     (instances
@@ -5253,6 +5517,18 @@
     )
     (property "Datasheet" "" (at 271.78 217.17 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603WAF4702T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C25819"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 47kΩ 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 44938591-9762-4c6c-903a-a965f0370236))
     (pin "2" (uuid 6e8f3d45-87fb-4d77-a871-824a8227b73e))
@@ -5355,6 +5631,18 @@
     )
     (property "Datasheet" "" (at 85.09 127 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603WAF4702T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C25819"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 47kΩ 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 70a825c5-ac33-457e-9689-406c2bf1bb40))
     (pin "2" (uuid 13e74c4c-e9e1-42ae-9036-20c9bfe18c2d))
@@ -5510,6 +5798,18 @@
     (property "Datasheet" "" (at 111.76 95.25 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603WAF4990T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C23065"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/23792-0603WAF4990T5E/C23065"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid eaa75cec-ad4d-4110-8142-93fd2e1ff4c1))
     (pin "2" (uuid 80d9949c-8b80-4ce1-8c71-baf247996d5c))
     (instances
@@ -5562,6 +5862,18 @@
     (property "Datasheet" "" (at 121.92 100.33 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603WAF1000T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C22775"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±1% ±200ppm/℃ 100Ω 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/23502-0603WAF1000T5E/C22775"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid 53842595-c98d-4d6b-9008-2e0907b3f817))
     (pin "2" (uuid 683e0902-43e7-4704-a831-8992641926e0))
     (instances
@@ -5587,6 +5899,18 @@
     )
     (property "Datasheet" "" (at 90.17 127 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603WAF4702T5E"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C25819"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 47kΩ 0603  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 4f03f2be-54f2-456f-9396-baf6bfcaaa83))
     (pin "2" (uuid fcd2dab3-7fd2-423f-a009-a008ee32bfc5))
