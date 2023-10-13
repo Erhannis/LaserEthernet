@@ -2729,6 +2729,18 @@
     (property "Datasheet" "" (at 132.08 85.09 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603B223K500NT"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C77571"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 22nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/78700-0603B223K500NT/C77571"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid 64fe48a1-c315-40dc-8c46-b9bc61cb1b92))
     (pin "2" (uuid 4e782308-d6ce-4ea8-8db4-7484b0b64ad7))
     (instances
@@ -2945,6 +2957,18 @@
     (property "Datasheet" "" (at 128.27 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603B104K500NT"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C30926"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid 0a574c13-70dd-4a88-91cd-92bbd12e9f4a))
     (pin "2" (uuid 570bd383-ca61-4954-8071-441336009679))
     (instances
@@ -3033,6 +3057,18 @@
     )
     (property "Datasheet" "" (at 148.59 85.09 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603B104K500NT"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C30926"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 36f01821-4c31-4ce7-8eb0-ada45e81d53e))
     (pin "2" (uuid 5e519e60-fc82-4ed3-baba-b70acd251088))
@@ -3161,6 +3197,18 @@
     (property "Datasheet" "" (at 144.78 64.77 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "CL10A105KB8NNNC"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C15849"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 1uF X5R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid b970ee7c-69d9-4396-afcc-aac144e881f6))
     (pin "2" (uuid f734e7a8-0d92-4025-b6d2-a054b92ebfe4))
     (instances
@@ -3225,6 +3273,18 @@
     (property "Datasheet" "" (at 99.06 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "CL10A225KB8NNNC"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C913904"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 2.2uF X5R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/984470-CL10A225KB8NNNC/C913904"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid a3045518-fe74-412a-a3d6-708f2e0a8179))
     (pin "2" (uuid 8fed0897-aca8-4bbc-8f58-ec8d1b823c85))
     (instances
@@ -3288,6 +3348,18 @@
     )
     (property "Datasheet" "" (at 158.75 218.44 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "CL10A105KB8NNNC"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C15849"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 1uF X5R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 7ef49a9d-2a64-4fd1-8aba-bdb57780eb81))
     (pin "2" (uuid 221e9531-0e27-4d4b-8288-bcd3a8435680))
@@ -3390,6 +3462,18 @@
     (property "Datasheet" "" (at 190.5 186.69 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603B104K500NT"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C30926"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid 5e60c3a3-f989-487f-94d2-2776a2807d9f))
     (pin "2" (uuid f3c5f755-4941-459b-aa0d-efcbfbcd3d81))
     (instances
@@ -3440,6 +3524,18 @@
     )
     (property "Datasheet" "" (at 142.24 189.23 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603B223K500NT"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C77571"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 22nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/78700-0603B223K500NT/C77571"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 2c8b49b9-1cc6-4c4e-988a-c1c04768ee9b))
     (pin "2" (uuid 2aa8f99f-f2f8-4735-8b4a-b374349a03ae))
@@ -3916,6 +4012,18 @@
     (property "Datasheet" "" (at 109.22 177.8 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603B104K500NT"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C30926"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid 15383ae3-e2b1-4fdc-8fd1-14ef48f21eb1))
     (pin "2" (uuid 4a5c7a1a-c562-487e-b993-28341cbd67f9))
     (instances
@@ -4149,6 +4257,18 @@
     )
     (property "Datasheet" "" (at 243.84 184.15 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603B104K500NT"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C30926"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid c9bec607-c6ba-453d-981b-186d9839ecb9))
     (pin "2" (uuid d9db813b-a9ee-4904-8191-947da195f3e1))
@@ -4772,6 +4892,18 @@
     (property "Datasheet" "" (at 124.46 205.74 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "CL10A105KB8NNNC"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C15849"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 1uF X5R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid 4211f3d7-923a-444f-b77d-070e419ea36d))
     (pin "2" (uuid 58361680-ff2b-48c2-a176-e67fd5ea0181))
     (instances
@@ -4855,6 +4987,18 @@
     (property "Datasheet" "" (at 293.37 40.64 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "CL10A105KB8NNNC"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C15849"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 1uF X5R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid 794d4396-2f26-4c21-b9f7-7b73d3ecbf52))
     (pin "2" (uuid 274a1aee-6758-482f-92c4-599065cf7a2e))
     (instances
@@ -4932,6 +5076,18 @@
     (property "Datasheet" "" (at 308.61 45.72 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603B104K500NT"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C30926"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid 623bca38-bae9-45ac-a8dd-fb0fc329e9d3))
     (pin "2" (uuid ccd59c02-513c-4ecd-81bb-ec2d77dd92b5))
     (instances
@@ -4982,6 +5138,18 @@
     )
     (property "Datasheet" "" (at 331.47 45.72 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603B104K500NT"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C30926"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid f3c4ddd0-8fbd-4ecf-b7bf-9347200b7ed1))
     (pin "2" (uuid cd89e643-118a-4943-82c6-088303240559))
@@ -5160,6 +5328,18 @@
     (property "Datasheet" "" (at 361.95 43.18 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "CL10A105KB8NNNC"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C15849"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 1uF X5R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid 6115b3fb-4c83-4166-ae82-62fa879ee8c9))
     (pin "2" (uuid f5289cf3-30ae-4756-ba8e-7daa06ac16d0))
     (instances
@@ -5186,6 +5366,18 @@
     (property "Datasheet" "" (at 265.43 198.12 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603B223K500NT"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C77571"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 22nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/78700-0603B223K500NT/C77571"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid a733615a-e859-4c19-a21a-8df3d1f93aea))
     (pin "2" (uuid 76f7e787-bfa2-4f31-afa6-8d17e336fcc4))
     (instances
@@ -5211,6 +5403,18 @@
     )
     (property "Datasheet" "" (at 265.43 210.82 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603B223K500NT"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C77571"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 22nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/78700-0603B223K500NT/C77571"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 51ce1fdb-e91f-4413-a63f-3b38c84e7c5d))
     (pin "2" (uuid f449e5b1-17eb-48a1-9368-ed70f55eb7b7))
@@ -5666,6 +5870,18 @@
     (property "Datasheet" "" (at 83.82 182.88 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "0603B104K500NT"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C30926"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid f181db4c-9f4d-442b-bdcb-2d8bbb6b75f1))
     (pin "2" (uuid 51ee9080-a5a7-49e7-baf1-376ba851445a))
     (instances
@@ -5831,6 +6047,18 @@
     )
     (property "Datasheet" "" (at 111.76 85.09 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "0603B223K500NT"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C77571"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "50V 22nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/78700-0603B223K500NT/C77571"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 16f8d9d0-f65e-4121-9ee6-2897023c6d06))
     (pin "2" (uuid f195552d-efb6-4b71-beaf-df98599a38ac))
