@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT1713
+D Single OpAmp, 85 MHz
+K opamp, rail-to-rail
+F https://datasheets.maximintegrated.com/en/ds/MAX4389-MAX4396.pdf
+$ENDCMP
+#
+$CMP MAX4390
+D Single OpAmp, 85 MHz
+K opamp, rail-to-rail
+F https://datasheets.maximintegrated.com/en/ds/MAX4389-MAX4396.pdf
+$ENDCMP
+#
+$CMP MAX4392
+D Single OpAmp, 85 MHz
+K opamp, rail-to-rail
+F https://datasheets.maximintegrated.com/en/ds/MAX4389-MAX4396.pdf
+$ENDCMP
+#
+$CMP OPA695
+D Single OpAmp, 85 MHz
+K opamp, rail-to-rail
+F https://datasheets.maximintegrated.com/en/ds/MAX4389-MAX4396.pdf
+$ENDCMP
+#
+#End Doc Library
