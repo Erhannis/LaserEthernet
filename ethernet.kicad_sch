@@ -2610,6 +2610,18 @@
     (property "Datasheet" "" (at 123.19 44.45 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "AD8051ARTZ-REEL"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C652243"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "1.4uA 1 110MHz SOT-23-5  Operational Amplifier ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/AnalogDevices-AD8051ARTZREEL/C652243"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "2" (uuid 5bb92f39-5494-459f-9b4c-aea7022b4040))
     (pin "5" (uuid e0a507ac-e2ea-440e-a826-470779a34e65))
     (pin "1" (uuid 61a0f2bf-4e08-4f7d-bc79-fbd791158ba3))
@@ -4422,6 +4434,18 @@
     (property "Datasheet" "" (at 251.46 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "CJ78M05"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C9070"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "500mA Fixed 5V~5V Positive 35V TO-252-2L  Linear Voltage Regulators (LDO) ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/9591-CJ78M05/C9070"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid dcfec79c-6494-4962-9aa9-6224fb248c57))
     (pin "2" (uuid 5cc1c170-869a-46e6-90de-da4eb5eafb77))
     (pin "3" (uuid 32e1a9b2-02c0-47c0-81f9-f1de6e6af01d))
@@ -6044,6 +6068,18 @@
     )
     (property "Datasheet" "" (at 219.71 78.74 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "SD0603S040S0R2"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C143772"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "40V 450mV@200mA 200mA 0603  Schottky Barrier Diodes (SBD) ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/-SD0603S040S0R2/C143772"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid c135b4ed-9fee-442e-8e8e-1ab2fca90f22))
     (pin "2" (uuid 3efc331e-f5b6-4c04-8d82-7e6b2d5f248b))
