@@ -5202,6 +5202,18 @@
     (property "Datasheet" "" (at 278.13 73.66 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "19-217/GHC-YR1S2/3T"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C72043"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "Colorless transparence -40℃~+85℃ 520nm~535nm Emerald 120° 110mW 0603  Light Emitting Diodes (LED) ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/EverlightElec-19_217_GHC_YR1S23T/C72043"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid 41572c46-6a03-49fb-9cc2-f476c54aeced))
     (pin "2" (uuid 30cf49de-e2a6-49b8-b497-e5b1e4e01bb9))
     (instances
@@ -5290,6 +5302,18 @@
     )
     (property "Datasheet" "" (at 373.38 22.86 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "XL-1608UWC-04"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C965808"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "13700K~19000K Yellow -30℃~+85℃ Positive post White light 120° 80mW 0603  Light Emitting Diodes (LED) ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/Xinglight-XL_1608UWC04/C965808"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid fae48d27-a974-4f8d-9c79-3e2aec25d325))
     (pin "2" (uuid 2f684d28-8b97-47bd-b039-0b54855816c0))
