@@ -2867,6 +2867,18 @@
     (property "Datasheet" "" (at 92.71 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "VG039NCHXTB203"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C128550"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "±25% 20kΩ SMD  Variable Resistors/Potentiometers ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/139835-VG039NCHXTB203/C128550"
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid 0f5e21c9-b8ef-4a25-9d46-bdb0a49d6ec2))
     (pin "2" (uuid 3d1cca9e-6de9-4c03-8b4d-a84a9448e64d))
     (pin "3" (uuid 7a36cff0-1393-42c0-be8c-e47dc2c39a6c))
@@ -6159,6 +6171,18 @@
     )
     (property "Datasheet" "" (at 67.31 171.45 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "T495X476K035ATE230"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C600570"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "47uF 35V 230mΩ@100kHz ±10% CASE-X-7343  Tantalum Capacitors ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/Kemet-T495X476K035ATE230/C600570"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 4f20f036-ca43-458f-ae6d-e8a4266ba2c1))
     (pin "2" (uuid 19a1f509-bf72-48c7-aa3c-50e258472760))
