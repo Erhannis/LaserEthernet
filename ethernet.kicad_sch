@@ -2610,16 +2610,16 @@
     (property "Datasheet" "" (at 123.19 44.45 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "AD8051ARTZ-REEL"
+    (property "MFR" "AD8051ARTZ-REEL" (at -0.0001 99.0601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C652243"
+    (property "LCSC" "C652243" (at -0.0001 99.0601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "1.4uA 1 110MHz SOT-23-5  Operational Amplifier ROHS"
+    (property "Description" "1.4uA 1 110MHz SOT-23-5  Operational Amplifier ROHS" (at -0.0001 99.0601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/AnalogDevices-AD8051ARTZREEL/C652243"
+    (property "URL" "https://jlcpcb.com/partdetail/AnalogDevices-AD8051ARTZREEL/C652243" (at -0.0001 99.0601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "2" (uuid 5bb92f39-5494-459f-9b4c-aea7022b4040))
@@ -2715,16 +2715,16 @@
     (property "Datasheet" "" (at 139.7 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "NLCV32T-100K-EF"
+    (property "MFR" "NLCV32T-100K-EF" (at 62.2299 -62.2301 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C250231"
+    (property "LCSC" "C250231" (at 62.2299 -62.2301 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "450mA 10uH ±10% 360mΩ 1210  Inductors (SMD) ROHS"
+    (property "Description" "450mA 10uH ±10% 360mΩ 1210  Inductors (SMD) ROHS" (at 62.2299 -62.2301 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/Tdk-NLCV32T_100KEF/C250231"
+    (property "URL" "https://jlcpcb.com/partdetail/Tdk-NLCV32T_100KEF/C250231" (at 62.2299 -62.2301 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 94651b73-6999-40ea-90fc-f9b82e80153f))
@@ -2879,16 +2879,16 @@
     (property "Datasheet" "" (at 92.71 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "VG039NCHXTB203"
+    (property "MFR" "VG039NCHXTB203" (at -0.0001 93.9801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C128550"
+    (property "LCSC" "C128550" (at -0.0001 93.9801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "±25% 20kΩ SMD  Variable Resistors/Potentiometers ROHS"
+    (property "Description" "±25% 20kΩ SMD  Variable Resistors/Potentiometers ROHS" (at -0.0001 93.9801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/139835-VG039NCHXTB203/C128550"
+    (property "URL" "https://jlcpcb.com/partdetail/139835-VG039NCHXTB203/C128550" (at -0.0001 93.9801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 0f5e21c9-b8ef-4a25-9d46-bdb0a49d6ec2))
@@ -3815,6 +3815,18 @@
     (property "Datasheet" "" (at 60.96 179.07 0)
       (effects (font (size 1.27 1.27)))
     )
+    (property "MFR" "BPW46" (at 60.96 180.34 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C145493" (at 60.96 180.34 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "60V 900nm 430nm~1100nm ±65° 2nA Plugin,L=5mm  Photodiodes ROHS" (at 60.96 180.34 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/VishayIntertech-BPW46/C145493" (at 60.96 180.34 0)
+      (effects (font (size 1.524 1.524)) hide)
+    )
     (pin "1" (uuid 77cf3ede-5216-4fcc-9f4f-bac69be117a6))
     (pin "2" (uuid 48eeb391-90b1-47f5-809b-cbdfcabd3c65))
     (instances
@@ -3904,16 +3916,16 @@
     (property "Datasheet" "" (at 105.41 184.15 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "OPA690IDBVR"
+    (property "MFR" "OPA690IDBVR" (at -0.0001 378.4601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C524799"
+    (property "LCSC" "C524799" (at -0.0001 378.4601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "3uA 1 500MHz 300MHz SOT-23-6  Operational Amplifier ROHS"
+    (property "Description" "3uA 1 500MHz 300MHz SOT-23-6  Operational Amplifier ROHS" (at -0.0001 378.4601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/TexasInstruments-OPA690IDBVR/C524799"
+    (property "URL" "https://jlcpcb.com/partdetail/TexasInstruments-OPA690IDBVR/C524799" (at -0.0001 378.4601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "4" (uuid 055e1abb-3d40-4f03-ad9d-f64ba64c3d99))
@@ -4369,16 +4381,16 @@
     (property "Datasheet" "" (at 189.23 76.2 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "DC005"
+    (property "MFR" "DC005" (at -0.0001 152.4001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C431533"
+    (property "LCSC" "C431533" (at -0.0001 152.4001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "Shrouded DC Power Receptacle -40℃~+55℃ 2mm 6.3mm 500mA 30V Plugin  AC/DC Power Connectors ROHS"
+    (property "Description" "Shrouded DC Power Receptacle -40℃~+55℃ 2mm 6.3mm 500mA 30V Plugin  AC/DC Power Connectors ROHS" (at -0.0001 152.4001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/ShouHan-DC005/C431533"
+    (property "URL" "https://jlcpcb.com/partdetail/ShouHan-DC005/C431533" (at -0.0001 152.4001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 00c9666e-a1b8-4e6f-9326-9be788220b58))
@@ -4458,16 +4470,16 @@
     (property "Datasheet" "" (at 251.46 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "CJ78M05"
+    (property "MFR" "CJ78M05" (at -0.0001 149.8601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C9070"
+    (property "LCSC" "C9070" (at -0.0001 149.8601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "500mA Fixed 5V~5V Positive 35V TO-252-2L  Linear Voltage Regulators (LDO) ROHS"
+    (property "Description" "500mA Fixed 5V~5V Positive 35V TO-252-2L  Linear Voltage Regulators (LDO) ROHS" (at -0.0001 149.8601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/9591-CJ78M05/C9070"
+    (property "URL" "https://jlcpcb.com/partdetail/9591-CJ78M05/C9070" (at -0.0001 149.8601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid dcfec79c-6494-4962-9aa9-6224fb248c57))
@@ -4672,6 +4684,18 @@
     )
     (property "Datasheet" "" (at 212.09 73.66 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "C58066" (at 212.09 73.66 90)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C58066" (at 212.09 73.66 90)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "-  Fuse Holders ROHS" (at 212.09 73.66 90)
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/XuchengElec-C58066/C58066" (at 212.09 73.66 90)
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 279ffdae-b78a-4822-90f5-4f4ee2490464))
     (pin "2" (uuid b51d447f-5056-4ac7-8cf3-96ac6a534af1))
@@ -5122,16 +5146,16 @@
     (property "Datasheet" "" (at 321.31 59.69 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "NLCV32T-100K-EF"
+    (property "MFR" "NLCV32T-100K-EF" (at 381.0001 381.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C250231"
+    (property "LCSC" "C250231" (at 381.0001 381.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "450mA 10uH ±10% 360mΩ 1210  Inductors (SMD) ROHS"
+    (property "Description" "450mA 10uH ±10% 360mΩ 1210  Inductors (SMD) ROHS" (at 381.0001 381.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/Tdk-NLCV32T_100KEF/C250231"
+    (property "URL" "https://jlcpcb.com/partdetail/Tdk-NLCV32T_100KEF/C250231" (at 381.0001 381.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 07e4347b-5208-4a43-b817-0b6db2e42f9a))
@@ -6055,16 +6079,16 @@
     (property "Datasheet" "" (at 105.41 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "NLCV32T-100K-EF"
+    (property "MFR" "NLCV32T-100K-EF" (at 27.9399 -27.9401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C250231"
+    (property "LCSC" "C250231" (at 27.9399 -27.9401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "450mA 10uH ±10% 360mΩ 1210  Inductors (SMD) ROHS"
+    (property "Description" "450mA 10uH ±10% 360mΩ 1210  Inductors (SMD) ROHS" (at 27.9399 -27.9401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/Tdk-NLCV32T_100KEF/C250231"
+    (property "URL" "https://jlcpcb.com/partdetail/Tdk-NLCV32T_100KEF/C250231" (at 27.9399 -27.9401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 0669c174-f194-4ccc-bc85-f66d58e5a941))
@@ -6093,16 +6117,16 @@
     (property "Datasheet" "" (at 219.71 78.74 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "SD0603S040S0R2"
+    (property "MFR" "SD0603S040S0R2" (at 140.9699 -140.9701 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C143772"
+    (property "LCSC" "C143772" (at 140.9699 -140.9701 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "40V 450mV@200mA 200mA 0603  Schottky Barrier Diodes (SBD) ROHS"
+    (property "Description" "40V 450mV@200mA 200mA 0603  Schottky Barrier Diodes (SBD) ROHS" (at 140.9699 -140.9701 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/-SD0603S040S0R2/C143772"
+    (property "URL" "https://jlcpcb.com/partdetail/-SD0603S040S0R2/C143772" (at 140.9699 -140.9701 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid c135b4ed-9fee-442e-8e8e-1ab2fca90f22))
@@ -6232,16 +6256,16 @@
     (property "Datasheet" "" (at 67.31 171.45 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "T495X476K035ATE230"
+    (property "MFR" "T495X476K035ATE230" (at 238.7601 238.7601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C600570"
+    (property "LCSC" "C600570" (at 238.7601 238.7601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "47uF 35V 230mΩ@100kHz ±10% CASE-X-7343  Tantalum Capacitors ROHS"
+    (property "Description" "47uF 35V 230mΩ@100kHz ±10% CASE-X-7343  Tantalum Capacitors ROHS" (at 238.7601 238.7601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/Kemet-T495X476K035ATE230/C600570"
+    (property "URL" "https://jlcpcb.com/partdetail/Kemet-T495X476K035ATE230/C600570" (at 238.7601 238.7601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 4f20f036-ca43-458f-ae6d-e8a4266ba2c1))
