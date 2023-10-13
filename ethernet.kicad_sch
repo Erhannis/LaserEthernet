@@ -2639,16 +2639,16 @@
     (property "Datasheet" "" (at 95.25 86.36 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF100JT5E"
+    (property "MFR" "0603WAF100JT5E" (at -0.0001 172.7201 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C22859"
+    (property "LCSC" "C22859" (at -0.0001 172.7201 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±1% ±400ppm/℃ 10Ω 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±1% ±400ppm/℃ 10Ω 0603  Chip Resistor - Surface Mount ROHS" (at -0.0001 172.7201 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/23586-0603WAF100JT5E/C22859"
+    (property "URL" "https://jlcpcb.com/partdetail/23586-0603WAF100JT5E/C22859" (at -0.0001 172.7201 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid a7251d99-5fd2-40c5-80cf-ed64c23af933))
@@ -2697,11 +2697,23 @@
     (property "Value" "10uH" (at 139.7 79.375 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Capacitors_SMD:C_1210_HandSoldering" (at 139.7 77.47 0)
+    (property "Footprint" "Inductor_SMD:L_1210_3225Metric" (at 139.7 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 139.7 77.47 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "NLCV32T-100K-EF"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C250231"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "450mA 10uH ±10% 360mΩ 1210  Inductors (SMD) ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/Tdk-NLCV32T_100KEF/C250231"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 94651b73-6999-40ea-90fc-f9b82e80153f))
     (pin "2" (uuid 1d031abe-fe25-494a-adbf-b29a47a6fca6))
@@ -2729,16 +2741,16 @@
     (property "Datasheet" "" (at 132.08 85.09 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603B223K500NT"
+    (property "MFR" "0603B223K500NT" (at -0.0001 170.1801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C77571"
+    (property "LCSC" "C77571" (at -0.0001 170.1801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 22nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 22nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at -0.0001 170.1801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/78700-0603B223K500NT/C77571"
+    (property "URL" "https://jlcpcb.com/partdetail/78700-0603B223K500NT/C77571" (at -0.0001 170.1801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 64fe48a1-c315-40dc-8c46-b9bc61cb1b92))
@@ -2767,16 +2779,16 @@
     (property "Datasheet" "" (at 132.08 95.25 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF4990T5E"
+    (property "MFR" "0603WAF4990T5E" (at -0.0001 190.5001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C23065"
+    (property "LCSC" "C23065" (at -0.0001 190.5001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0603  Chip Resistor - Surface Mount ROHS" (at -0.0001 190.5001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/23792-0603WAF4990T5E/C23065"
+    (property "URL" "https://jlcpcb.com/partdetail/23792-0603WAF4990T5E/C23065" (at -0.0001 190.5001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 7ee9a01c-0946-4fd5-a376-5168ce969d2b))
@@ -2957,16 +2969,16 @@
     (property "Datasheet" "" (at 128.27 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603B104K500NT"
+    (property "MFR" "0603B104K500NT" (at 167.6401 167.6401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C30926"
+    (property "LCSC" "C30926" (at 167.6401 167.6401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at 167.6401 167.6401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926"
+    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926" (at 167.6401 167.6401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 0a574c13-70dd-4a88-91cd-92bbd12e9f4a))
@@ -3020,16 +3032,16 @@
     (property "Datasheet" "" (at 128.27 33.02 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "EEEFK1E100AR"
+    (property "MFR" "EEEFK1E100AR" (at 161.2901 161.2901 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C401709"
+    (property "LCSC" "C401709" (at 161.2901 161.2901 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "10uF 25V 58.5mA@120Hz ±20% SMD,D4xL5.8mm  Aluminum Electrolytic Capacitors - SMD ROHS"
+    (property "Description" "10uF 25V 58.5mA@120Hz ±20% SMD,D4xL5.8mm  Aluminum Electrolytic Capacitors - SMD ROHS" (at 161.2901 161.2901 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/Panasonic-EEEFK1E100AR/C401709"
+    (property "URL" "https://jlcpcb.com/partdetail/Panasonic-EEEFK1E100AR/C401709" (at 161.2901 161.2901 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 29f17782-130a-4367-b923-4493e9fe2eac))
@@ -3058,16 +3070,16 @@
     (property "Datasheet" "" (at 148.59 85.09 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603B104K500NT"
+    (property "MFR" "0603B104K500NT" (at -0.0001 170.1801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C30926"
+    (property "LCSC" "C30926" (at -0.0001 170.1801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at -0.0001 170.1801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926"
+    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926" (at -0.0001 170.1801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 36f01821-4c31-4ce7-8eb0-ada45e81d53e))
@@ -3121,16 +3133,16 @@
     (property "Datasheet" "" (at 99.06 71.12 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF1002T5E"
+    (property "MFR" "0603WAF1002T5E" (at -0.0001 142.2401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C25804"
+    (property "LCSC" "C25804" (at -0.0001 142.2401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 10kΩ 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 10kΩ 0603  Chip Resistor - Surface Mount ROHS" (at -0.0001 142.2401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804"
+    (property "URL" "https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804" (at -0.0001 142.2401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid fcfea7e8-d980-40ab-bb0a-93339e7c01de))
@@ -3159,16 +3171,16 @@
     (property "Datasheet" "" (at 152.4 71.12 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF100JT5E"
+    (property "MFR" "0603WAF100JT5E" (at -0.0001 142.2401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C22859"
+    (property "LCSC" "C22859" (at -0.0001 142.2401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±1% ±400ppm/℃ 10Ω 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±1% ±400ppm/℃ 10Ω 0603  Chip Resistor - Surface Mount ROHS" (at -0.0001 142.2401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/23586-0603WAF100JT5E/C22859"
+    (property "URL" "https://jlcpcb.com/partdetail/23586-0603WAF100JT5E/C22859" (at -0.0001 142.2401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 0e7a9330-c29b-491d-9254-4296dfa2abf0))
@@ -3197,16 +3209,16 @@
     (property "Datasheet" "" (at 144.78 64.77 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "CL10A105KB8NNNC"
+    (property "MFR" "CL10A105KB8NNNC" (at 80.0099 -80.0101 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C15849"
+    (property "LCSC" "C15849" (at 80.0099 -80.0101 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 1uF X5R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 1uF X5R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at 80.0099 -80.0101 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
+    (property "URL" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849" (at 80.0099 -80.0101 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid b970ee7c-69d9-4396-afcc-aac144e881f6))
@@ -3273,16 +3285,16 @@
     (property "Datasheet" "" (at 99.06 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "CL10A225KB8NNNC"
+    (property "MFR" "CL10A225KB8NNNC" (at -0.0001 106.6801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C913904"
+    (property "LCSC" "C913904" (at -0.0001 106.6801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 2.2uF X5R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 2.2uF X5R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at -0.0001 106.6801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/984470-CL10A225KB8NNNC/C913904"
+    (property "URL" "https://jlcpcb.com/partdetail/984470-CL10A225KB8NNNC/C913904" (at -0.0001 106.6801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid a3045518-fe74-412a-a3d6-708f2e0a8179))
@@ -3311,16 +3323,16 @@
     (property "Datasheet" "" (at 158.75 194.31 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF4702T5E"
+    (property "MFR" "0603WAF4702T5E" (at 317.5001 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C25819"
+    (property "LCSC" "C25819" (at 317.5001 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 47kΩ 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 47kΩ 0603  Chip Resistor - Surface Mount ROHS" (at 317.5001 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819"
+    (property "URL" "https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819" (at 317.5001 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 3de9f8d6-b25e-42fc-b2a5-dc96f50a69d5))
@@ -3349,16 +3361,16 @@
     (property "Datasheet" "" (at 158.75 218.44 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "CL10A105KB8NNNC"
+    (property "MFR" "CL10A105KB8NNNC" (at -0.0001 436.8801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C15849"
+    (property "LCSC" "C15849" (at -0.0001 436.8801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 1uF X5R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 1uF X5R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at -0.0001 436.8801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
+    (property "URL" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849" (at -0.0001 436.8801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 7ef49a9d-2a64-4fd1-8aba-bdb57780eb81))
@@ -3462,16 +3474,16 @@
     (property "Datasheet" "" (at 190.5 186.69 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603B104K500NT"
+    (property "MFR" "0603B104K500NT" (at 377.1901 377.1901 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C30926"
+    (property "LCSC" "C30926" (at 377.1901 377.1901 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at 377.1901 377.1901 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926"
+    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926" (at 377.1901 377.1901 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 5e60c3a3-f989-487f-94d2-2776a2807d9f))
@@ -3525,16 +3537,16 @@
     (property "Datasheet" "" (at 142.24 189.23 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603B223K500NT"
+    (property "MFR" "0603B223K500NT" (at -46.9901 46.9899 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C77571"
+    (property "LCSC" "C77571" (at -46.9901 46.9899 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 22nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 22nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at -46.9901 46.9899 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/78700-0603B223K500NT/C77571"
+    (property "URL" "https://jlcpcb.com/partdetail/78700-0603B223K500NT/C77571" (at -46.9901 46.9899 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 2c8b49b9-1cc6-4c4e-988a-c1c04768ee9b))
@@ -3653,16 +3665,16 @@
     (property "Datasheet" "" (at 148.59 205.74 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF1201T5E"
+    (property "MFR" "0603WAF1201T5E" (at -0.0001 411.4801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C22765"
+    (property "LCSC" "C22765" (at -0.0001 411.4801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 1.2kΩ 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 1.2kΩ 0603  Chip Resistor - Surface Mount ROHS" (at -0.0001 411.4801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/23492-0603WAF1201T5E/C22765"
+    (property "URL" "https://jlcpcb.com/partdetail/23492-0603WAF1201T5E/C22765" (at -0.0001 411.4801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid b31c3875-9cfe-4ac3-9fe7-0612624257d3))
@@ -3691,16 +3703,16 @@
     (property "Datasheet" "" (at 148.59 218.44 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF4701T5E"
+    (property "MFR" "0603WAF4701T5E" (at -0.0001 436.8801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C23162"
+    (property "LCSC" "C23162" (at -0.0001 436.8801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 4.7kΩ 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 4.7kΩ 0603  Chip Resistor - Surface Mount ROHS" (at -0.0001 436.8801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/23889-0603WAF4701T5E/C23162"
+    (property "URL" "https://jlcpcb.com/partdetail/23889-0603WAF4701T5E/C23162" (at -0.0001 436.8801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid a18b5619-36fa-411b-8b4a-fa191a4baa4b))
@@ -3830,16 +3842,16 @@
     (property "Datasheet" "" (at 60.96 165.1 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF4701T5E"
+    (property "MFR" "0603WAF4701T5E" (at -0.0001 330.2001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C23162"
+    (property "LCSC" "C23162" (at -0.0001 330.2001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 4.7kΩ 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 4.7kΩ 0603  Chip Resistor - Surface Mount ROHS" (at -0.0001 330.2001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/23889-0603WAF4701T5E/C23162"
+    (property "URL" "https://jlcpcb.com/partdetail/23889-0603WAF4701T5E/C23162" (at -0.0001 330.2001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 7138e44d-fa5f-45cb-ba45-8b6e82f2b83a))
@@ -3923,16 +3935,16 @@
     (property "Datasheet" "" (at 104.14 212.09 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF1001T5E"
+    (property "MFR" "0603WAF1001T5E" (at -107.9501 107.9499 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C21190"
+    (property "LCSC" "C21190" (at -107.9501 107.9499 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0603  Chip Resistor - Surface Mount ROHS" (at -107.9501 107.9499 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190"
+    (property "URL" "https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190" (at -107.9501 107.9499 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 206d1272-2feb-45e9-9c3a-2c9c921d269c))
@@ -4012,16 +4024,16 @@
     (property "Datasheet" "" (at 109.22 177.8 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603B104K500NT"
+    (property "MFR" "0603B104K500NT" (at -68.5801 68.5799 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C30926"
+    (property "LCSC" "C30926" (at -68.5801 68.5799 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at -68.5801 68.5799 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926"
+    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926" (at -68.5801 68.5799 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 15383ae3-e2b1-4fdc-8fd1-14ef48f21eb1))
@@ -4100,16 +4112,16 @@
     (property "Datasheet" "" (at 255.27 198.12 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF499JT5E"
+    (property "MFR" "0603WAF499JT5E" (at 57.1499 -57.1501 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C23185"
+    (property "LCSC" "C23185" (at 57.1499 -57.1501 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 49.9Ω 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 49.9Ω 0603  Chip Resistor - Surface Mount ROHS" (at 57.1499 -57.1501 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/23912-0603WAF499JT5E/C23185"
+    (property "URL" "https://jlcpcb.com/partdetail/23912-0603WAF499JT5E/C23185" (at 57.1499 -57.1501 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid b170b67f-1891-4fd4-8035-229bffbb993f))
@@ -4220,16 +4232,16 @@
     (property "Datasheet" "" (at 255.27 210.82 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF499JT5E"
+    (property "MFR" "0603WAF499JT5E" (at 44.4499 -44.4501 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C23185"
+    (property "LCSC" "C23185" (at 44.4499 -44.4501 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 49.9Ω 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 49.9Ω 0603  Chip Resistor - Surface Mount ROHS" (at 44.4499 -44.4501 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/23912-0603WAF499JT5E/C23185"
+    (property "URL" "https://jlcpcb.com/partdetail/23912-0603WAF499JT5E/C23185" (at 44.4499 -44.4501 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 7ada0582-849e-4f07-a2d5-60bbde49c0bc))
@@ -4258,16 +4270,16 @@
     (property "Datasheet" "" (at 243.84 184.15 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603B104K500NT"
+    (property "MFR" "0603B104K500NT" (at 427.9901 427.9901 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C30926"
+    (property "LCSC" "C30926" (at 427.9901 427.9901 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at 427.9901 427.9901 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926"
+    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926" (at 427.9901 427.9901 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid c9bec607-c6ba-453d-981b-186d9839ecb9))
@@ -4475,16 +4487,16 @@
     (property "Datasheet" "" (at 236.22 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "EEEFK1E100AR"
+    (property "MFR" "EEEFK1E100AR" (at -0.0001 160.0201 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C401709"
+    (property "LCSC" "C401709" (at -0.0001 160.0201 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "10uF 25V 58.5mA@120Hz ±20% SMD,D4xL5.8mm  Aluminum Electrolytic Capacitors - SMD ROHS"
+    (property "Description" "10uF 25V 58.5mA@120Hz ±20% SMD,D4xL5.8mm  Aluminum Electrolytic Capacitors - SMD ROHS" (at -0.0001 160.0201 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/Panasonic-EEEFK1E100AR/C401709"
+    (property "URL" "https://jlcpcb.com/partdetail/Panasonic-EEEFK1E100AR/C401709" (at -0.0001 160.0201 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid ab3380b5-f278-4edd-984f-ddae2a830fcd))
@@ -4513,16 +4525,16 @@
     (property "Datasheet" "" (at 264.16 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "EEEFK1E100AR"
+    (property "MFR" "EEEFK1E100AR" (at -0.0001 160.0201 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C401709"
+    (property "LCSC" "C401709" (at -0.0001 160.0201 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "10uF 25V 58.5mA@120Hz ±20% SMD,D4xL5.8mm  Aluminum Electrolytic Capacitors - SMD ROHS"
+    (property "Description" "10uF 25V 58.5mA@120Hz ±20% SMD,D4xL5.8mm  Aluminum Electrolytic Capacitors - SMD ROHS" (at -0.0001 160.0201 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/Panasonic-EEEFK1E100AR/C401709"
+    (property "URL" "https://jlcpcb.com/partdetail/Panasonic-EEEFK1E100AR/C401709" (at -0.0001 160.0201 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid b8a9bd85-9a42-49e6-896f-a51a2d5b6ea5))
@@ -4652,16 +4664,16 @@
     (property "Datasheet" "" (at 88.9 172.72 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF2201T5E"
+    (property "MFR" "0603WAF2201T5E" (at -0.0001 345.4401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4190"
+    (property "LCSC" "C4190" (at -0.0001 345.4401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 2.2kΩ 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 2.2kΩ 0603  Chip Resistor - Surface Mount ROHS" (at -0.0001 345.4401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4597-0603WAF2201T5E/C4190"
+    (property "URL" "https://jlcpcb.com/partdetail/4597-0603WAF2201T5E/C4190" (at -0.0001 345.4401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 6dbecf70-a574-4ad2-a011-f581422d77b8))
@@ -4690,16 +4702,16 @@
     (property "Datasheet" "" (at 88.9 182.88 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF2201T5E"
+    (property "MFR" "0603WAF2201T5E" (at -0.0001 365.7601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4190"
+    (property "LCSC" "C4190" (at -0.0001 365.7601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 2.2kΩ 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 2.2kΩ 0603  Chip Resistor - Surface Mount ROHS" (at -0.0001 365.7601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4597-0603WAF2201T5E/C4190"
+    (property "URL" "https://jlcpcb.com/partdetail/4597-0603WAF2201T5E/C4190" (at -0.0001 365.7601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid db915e94-c53d-47bf-bd61-c7f61f48747c))
@@ -4753,16 +4765,16 @@
     (property "Datasheet" "" (at 171.45 199.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF2200T5E"
+    (property "MFR" "0603WAF2200T5E" (at -27.9401 27.9399 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C22962"
+    (property "LCSC" "C22962" (at -27.9401 27.9399 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 220Ω 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 220Ω 0603  Chip Resistor - Surface Mount ROHS" (at -27.9401 27.9399 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/23689-0603WAF2200T5E/C22962"
+    (property "URL" "https://jlcpcb.com/partdetail/23689-0603WAF2200T5E/C22962" (at -27.9401 27.9399 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 6b91eb75-1f6c-45cd-b14d-38732c3e881d))
@@ -4791,16 +4803,16 @@
     (property "Datasheet" "" (at 186.69 218.44 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF4703T5E"
+    (property "MFR" "0603WAF4703T5E" (at -31.7501 31.7499 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C23178"
+    (property "LCSC" "C23178" (at -31.7501 31.7499 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 470kΩ 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 470kΩ 0603  Chip Resistor - Surface Mount ROHS" (at -31.7501 31.7499 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/23905-0603WAF4703T5E/C23178"
+    (property "URL" "https://jlcpcb.com/partdetail/23905-0603WAF4703T5E/C23178" (at -31.7501 31.7499 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid f745f52e-e100-49b0-a5c8-0c34d582729f))
@@ -4829,16 +4841,16 @@
     (property "Datasheet" "" (at 124.46 196.85 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF499JT5E"
+    (property "MFR" "0603WAF499JT5E" (at -0.0001 393.7001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C23185"
+    (property "LCSC" "C23185" (at -0.0001 393.7001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 49.9Ω 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 49.9Ω 0603  Chip Resistor - Surface Mount ROHS" (at -0.0001 393.7001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/23912-0603WAF499JT5E/C23185"
+    (property "URL" "https://jlcpcb.com/partdetail/23912-0603WAF499JT5E/C23185" (at -0.0001 393.7001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid e73b5979-8e74-4928-9672-df0417b4d9fb))
@@ -4892,16 +4904,16 @@
     (property "Datasheet" "" (at 124.46 205.74 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "CL10A105KB8NNNC"
+    (property "MFR" "CL10A105KB8NNNC" (at 248.9201 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C15849"
+    (property "LCSC" "C15849" (at 248.9201 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 1uF X5R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 1uF X5R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at 248.9201 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
+    (property "URL" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849" (at 248.9201 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 4211f3d7-923a-444f-b77d-070e419ea36d))
@@ -4987,16 +4999,16 @@
     (property "Datasheet" "" (at 293.37 40.64 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "CL10A105KB8NNNC"
+    (property "MFR" "CL10A105KB8NNNC" (at -0.0001 81.2801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C15849"
+    (property "LCSC" "C15849" (at -0.0001 81.2801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 1uF X5R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 1uF X5R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at -0.0001 81.2801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
+    (property "URL" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849" (at -0.0001 81.2801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 794d4396-2f26-4c21-b9f7-7b73d3ecbf52))
@@ -5044,11 +5056,23 @@
     (property "Value" "10uH" (at 321.31 57.785 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Capacitors_SMD:C_1210_HandSoldering" (at 321.31 59.69 0)
+    (property "Footprint" "Inductor_SMD:L_1210_3225Metric" (at 321.31 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 321.31 59.69 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "NLCV32T-100K-EF"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C250231"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "450mA 10uH ±10% 360mΩ 1210  Inductors (SMD) ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/Tdk-NLCV32T_100KEF/C250231"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 07e4347b-5208-4a43-b817-0b6db2e42f9a))
     (pin "2" (uuid 5730bca0-ab79-4763-957b-e7647d7dc65a))
@@ -5076,16 +5100,16 @@
     (property "Datasheet" "" (at 308.61 45.72 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603B104K500NT"
+    (property "MFR" "0603B104K500NT" (at -0.0001 91.4401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C30926"
+    (property "LCSC" "C30926" (at -0.0001 91.4401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at -0.0001 91.4401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926"
+    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926" (at -0.0001 91.4401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 623bca38-bae9-45ac-a8dd-fb0fc329e9d3))
@@ -5139,16 +5163,16 @@
     (property "Datasheet" "" (at 331.47 45.72 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603B104K500NT"
+    (property "MFR" "0603B104K500NT" (at -0.0001 91.4401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C30926"
+    (property "LCSC" "C30926" (at -0.0001 91.4401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at -0.0001 91.4401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926"
+    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926" (at -0.0001 91.4401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid f3c4ddd0-8fbd-4ecf-b7bf-9347200b7ed1))
@@ -5227,16 +5251,16 @@
     (property "Datasheet" "" (at 354.33 38.1 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "CR0603-FX-1242ELF"
+    (property "MFR" "CR0603-FX-1242ELF" (at -0.0001 76.2001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C203273"
+    (property "LCSC" "C203273" (at -0.0001 76.2001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 12.4kΩ 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 12.4kΩ 0603  Chip Resistor - Surface Mount ROHS" (at -0.0001 76.2001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/Bourns-CR0603_FX1242ELF/C203273"
+    (property "URL" "https://jlcpcb.com/partdetail/Bourns-CR0603_FX1242ELF/C203273" (at -0.0001 76.2001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid c22364d4-c5bc-422c-a734-709b6ec6656c))
@@ -5265,16 +5289,16 @@
     (property "Datasheet" "" (at 354.33 49.53 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF4990T5E"
+    (property "MFR" "0603WAF4990T5E" (at -0.0001 99.0601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C23065"
+    (property "LCSC" "C23065" (at -0.0001 99.0601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0603  Chip Resistor - Surface Mount ROHS" (at -0.0001 99.0601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/23792-0603WAF4990T5E/C23065"
+    (property "URL" "https://jlcpcb.com/partdetail/23792-0603WAF4990T5E/C23065" (at -0.0001 99.0601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 4094c0f9-c040-422d-83c8-5ea6c6525e18))
@@ -5328,16 +5352,16 @@
     (property "Datasheet" "" (at 361.95 43.18 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "CL10A105KB8NNNC"
+    (property "MFR" "CL10A105KB8NNNC" (at -0.0001 86.3601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C15849"
+    (property "LCSC" "C15849" (at -0.0001 86.3601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 1uF X5R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 1uF X5R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at -0.0001 86.3601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
+    (property "URL" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849" (at -0.0001 86.3601 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 6115b3fb-4c83-4166-ae82-62fa879ee8c9))
@@ -5366,16 +5390,16 @@
     (property "Datasheet" "" (at 265.43 198.12 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603B223K500NT"
+    (property "MFR" "0603B223K500NT" (at 67.3099 -67.3101 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C77571"
+    (property "LCSC" "C77571" (at 67.3099 -67.3101 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 22nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 22nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at 67.3099 -67.3101 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/78700-0603B223K500NT/C77571"
+    (property "URL" "https://jlcpcb.com/partdetail/78700-0603B223K500NT/C77571" (at 67.3099 -67.3101 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid a733615a-e859-4c19-a21a-8df3d1f93aea))
@@ -5404,16 +5428,16 @@
     (property "Datasheet" "" (at 265.43 210.82 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603B223K500NT"
+    (property "MFR" "0603B223K500NT" (at 54.6099 -54.6101 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C77571"
+    (property "LCSC" "C77571" (at 54.6099 -54.6101 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 22nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 22nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at 54.6099 -54.6101 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/78700-0603B223K500NT/C77571"
+    (property "URL" "https://jlcpcb.com/partdetail/78700-0603B223K500NT/C77571" (at 54.6099 -54.6101 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 51ce1fdb-e91f-4413-a63f-3b38c84e7c5d))
@@ -5442,16 +5466,16 @@
     (property "Datasheet" "" (at 278.13 73.66 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "19-217/GHC-YR1S2/3T"
+    (property "MFR" "19-217/GHC-YR1S2/3T" (at 556.2601 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C72043"
+    (property "LCSC" "C72043" (at 556.2601 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "Colorless transparence -40℃~+85℃ 520nm~535nm Emerald 120° 110mW 0603  Light Emitting Diodes (LED) ROHS"
+    (property "Description" "Colorless transparence -40℃~+85℃ 520nm~535nm Emerald 120° 110mW 0603  Light Emitting Diodes (LED) ROHS" (at 556.2601 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/EverlightElec-19_217_GHC_YR1S23T/C72043"
+    (property "URL" "https://jlcpcb.com/partdetail/EverlightElec-19_217_GHC_YR1S23T/C72043" (at 556.2601 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 41572c46-6a03-49fb-9cc2-f476c54aeced))
@@ -5505,16 +5529,16 @@
     (property "Datasheet" "" (at 289.56 73.66 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF2201T5E"
+    (property "MFR" "0603WAF2201T5E" (at 215.8999 -215.9001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4190"
+    (property "LCSC" "C4190" (at 215.8999 -215.9001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 2.2kΩ 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 2.2kΩ 0603  Chip Resistor - Surface Mount ROHS" (at 215.8999 -215.9001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4597-0603WAF2201T5E/C4190"
+    (property "URL" "https://jlcpcb.com/partdetail/4597-0603WAF2201T5E/C4190" (at 215.8999 -215.9001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid df903198-ffcb-482b-b154-b78c7cd6d134))
@@ -5543,16 +5567,16 @@
     (property "Datasheet" "" (at 373.38 22.86 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "XL-1608UWC-04"
+    (property "MFR" "XL-1608UWC-04" (at 746.7601 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C965808"
+    (property "LCSC" "C965808" (at 746.7601 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "13700K~19000K Yellow -30℃~+85℃ Positive post White light 120° 80mW 0603  Light Emitting Diodes (LED) ROHS"
+    (property "Description" "13700K~19000K Yellow -30℃~+85℃ Positive post White light 120° 80mW 0603  Light Emitting Diodes (LED) ROHS" (at 746.7601 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/Xinglight-XL_1608UWC04/C965808"
+    (property "URL" "https://jlcpcb.com/partdetail/Xinglight-XL_1608UWC04/C965808" (at 746.7601 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid fae48d27-a974-4f8d-9c79-3e2aec25d325))
@@ -5581,16 +5605,16 @@
     (property "Datasheet" "" (at 383.54 22.86 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF2202T5E"
+    (property "MFR" "0603WAF2202T5E" (at 360.6799 -360.6801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C31850"
+    (property "LCSC" "C31850" (at 360.6799 -360.6801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 22kΩ 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 22kΩ 0603  Chip Resistor - Surface Mount ROHS" (at 360.6799 -360.6801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/32812-0603WAF2202T5E/C31850"
+    (property "URL" "https://jlcpcb.com/partdetail/32812-0603WAF2202T5E/C31850" (at 360.6799 -360.6801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 28a8bae7-e6ca-4bcd-a93e-a5b1eff7b8a5))
@@ -5744,16 +5768,16 @@
     (property "Datasheet" "" (at 276.86 217.17 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF4702T5E"
+    (property "MFR" "0603WAF4702T5E" (at -0.0001 434.3401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C25819"
+    (property "LCSC" "C25819" (at -0.0001 434.3401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 47kΩ 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 47kΩ 0603  Chip Resistor - Surface Mount ROHS" (at -0.0001 434.3401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819"
+    (property "URL" "https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819" (at -0.0001 434.3401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid ef1be697-5903-4454-97a9-a65d1499ce97))
@@ -5782,16 +5806,16 @@
     (property "Datasheet" "" (at 271.78 217.17 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF4702T5E"
+    (property "MFR" "0603WAF4702T5E" (at -0.0001 434.3401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C25819"
+    (property "LCSC" "C25819" (at -0.0001 434.3401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 47kΩ 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 47kΩ 0603  Chip Resistor - Surface Mount ROHS" (at -0.0001 434.3401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819"
+    (property "URL" "https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819" (at -0.0001 434.3401 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 44938591-9762-4c6c-903a-a965f0370236))
@@ -5870,16 +5894,16 @@
     (property "Datasheet" "" (at 83.82 182.88 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603B104K500NT"
+    (property "MFR" "0603B104K500NT" (at 167.6401 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C30926"
+    (property "LCSC" "C30926" (at 167.6401 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 100nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at 167.6401 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926"
+    (property "URL" "https://jlcpcb.com/partdetail/31683-0603B104K500NT/C30926" (at 167.6401 -0.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid f181db4c-9f4d-442b-bdcb-2d8bbb6b75f1))
@@ -5908,16 +5932,16 @@
     (property "Datasheet" "" (at 85.09 127 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF4702T5E"
+    (property "MFR" "0603WAF4702T5E" (at -0.0001 254.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C25819"
+    (property "LCSC" "C25819" (at -0.0001 254.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 47kΩ 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 47kΩ 0603  Chip Resistor - Surface Mount ROHS" (at -0.0001 254.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819"
+    (property "URL" "https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819" (at -0.0001 254.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 70a825c5-ac33-457e-9689-406c2bf1bb40))
@@ -5965,11 +5989,23 @@
     (property "Value" "10uH" (at 105.41 79.375 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Capacitors_SMD:C_1210_HandSoldering" (at 105.41 77.47 0)
+    (property "Footprint" "Inductor_SMD:L_1210_3225Metric" (at 105.41 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 105.41 77.47 0)
       (effects (font (size 1.27 1.27)))
+    )
+    (property "MFR" "NLCV32T-100K-EF"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "LCSC" "C250231"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "Description" "450mA 10uH ±10% 360mΩ 1210  Inductors (SMD) ROHS"
+      (effects (font (size 1.524 1.524)) hide)
+    )
+    (property "URL" "https://jlcpcb.com/partdetail/Tdk-NLCV32T_100KEF/C250231"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 0669c174-f194-4ccc-bc85-f66d58e5a941))
     (pin "2" (uuid d0610f7f-dcc2-4a2a-9e2e-df05dac9c77f))
@@ -6048,16 +6084,16 @@
     (property "Datasheet" "" (at 111.76 85.09 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603B223K500NT"
+    (property "MFR" "0603B223K500NT" (at -0.0001 170.1801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C77571"
+    (property "LCSC" "C77571" (at -0.0001 170.1801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "50V 22nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+    (property "Description" "50V 22nF X7R ±10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" (at -0.0001 170.1801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/78700-0603B223K500NT/C77571"
+    (property "URL" "https://jlcpcb.com/partdetail/78700-0603B223K500NT/C77571" (at -0.0001 170.1801 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 16f8d9d0-f65e-4121-9ee6-2897023c6d06))
@@ -6086,16 +6122,16 @@
     (property "Datasheet" "" (at 111.76 95.25 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF4990T5E"
+    (property "MFR" "0603WAF4990T5E" (at -0.0001 190.5001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C23065"
+    (property "LCSC" "C23065" (at -0.0001 190.5001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0603  Chip Resistor - Surface Mount ROHS" (at -0.0001 190.5001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/23792-0603WAF4990T5E/C23065"
+    (property "URL" "https://jlcpcb.com/partdetail/23792-0603WAF4990T5E/C23065" (at -0.0001 190.5001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid eaa75cec-ad4d-4110-8142-93fd2e1ff4c1))
@@ -6150,16 +6186,16 @@
     (property "Datasheet" "" (at 121.92 100.33 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF1000T5E"
+    (property "MFR" "0603WAF1000T5E" (at 21.5899 -21.5901 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C22775"
+    (property "LCSC" "C22775" (at 21.5899 -21.5901 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±1% ±200ppm/℃ 100Ω 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±1% ±200ppm/℃ 100Ω 0603  Chip Resistor - Surface Mount ROHS" (at 21.5899 -21.5901 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/23502-0603WAF1000T5E/C22775"
+    (property "URL" "https://jlcpcb.com/partdetail/23502-0603WAF1000T5E/C22775" (at 21.5899 -21.5901 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 53842595-c98d-4d6b-9008-2e0907b3f817))
@@ -6188,16 +6224,16 @@
     (property "Datasheet" "" (at 90.17 127 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "MFR" "0603WAF4702T5E"
+    (property "MFR" "0603WAF4702T5E" (at -0.0001 254.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C25819"
+    (property "LCSC" "C25819" (at -0.0001 254.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 47kΩ 0603  Chip Resistor - Surface Mount ROHS"
+    (property "Description" "100mW Thick Film Resistors ±100ppm/℃ ±1% 47kΩ 0603  Chip Resistor - Surface Mount ROHS" (at -0.0001 254.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819"
+    (property "URL" "https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819" (at -0.0001 254.0001 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 4f03f2be-54f2-456f-9396-baf6bfcaaa83))
